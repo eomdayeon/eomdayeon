@@ -1,8 +1,6 @@
 ### Hi there 👋
 <a href="https://instagram.com/yeoniiy?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a> <a href="https://eomdayeon.notion.site/My-Study-97f33ea4ca834cad9ec22bcd11acb5e1" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=plastic&logo=Notion&logoColor=white"/></a> <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/dayeoneom7142@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a> 
 
-
-https://img.shields.io/badge/
 ![Dayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=eomdayeon&show_icons=true&theme=radical)
 ### - 👩🏻‍💻 I’m currently learning **Computer Science Engineering**
 <!--
