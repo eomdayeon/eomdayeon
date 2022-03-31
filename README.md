@@ -3,7 +3,7 @@
 <a href="https://mail.naver.com/" target="_blank"><img src="https://img.shields.io/badge/qq7142@naver.com-03C75A?style=plastic&logo=Naver&logoColor=white"/></a> 
 
 ![eomdayeon's github stats](https://github-readme-stats.vercel.app/api?username=eomdayeon&theme=radical&show_icons=true)[![eomdayeon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eomdayeon&langs_count=5&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&theme=radical&layout=compact)](https://github.com/eomdayeon)
-[![eomdayeon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eomdayeon)](https://github.com/anuraghazra/github-readme-stats)
+[![eomdayeon's waketime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eomdayeon)](https://github.com/anuraghazra/github-readme-stats)
 ### 👩🏻‍💻 I’m currently learning **Computer Science Engineering**
 <!--
 **eomdayeon/eomdayeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
