@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://instagram.com/yeoniiy?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/yeoniiy-#E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 ![Dayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=eomdayeon&show_icons=true&theme=radical)
 ### - 👩🏻‍💻 I’m currently learning **Computer Science Engineering**
