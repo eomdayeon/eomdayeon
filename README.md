@@ -1,5 +1,5 @@
 ### Hi there 👋
--👩🏻‍💻 I’m currently learning **Computer Science Engineering**
+  👩🏻‍💻 I’m currently learning **Computer Science Engineering**
 ![Dayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=eomdayeon&show_icons=true&theme=radical)
 <!--
 **eomdayeon/eomdayeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
