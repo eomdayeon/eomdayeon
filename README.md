@@ -3,6 +3,8 @@
 <a href="https://mail.naver.com/" target="_blank"><img src="https://img.shields.io/badge/qq7142@naver.com-03C75A?style=plastic&logo=Naver&logoColor=white"/></a> 
 
 ![Dayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=eomdayeon&show_icons=true&theme=radical)
+![eomdayeon's github stats](https://github-readme-stats.vercel.app/api?username=eomdayeon&show_icons=true)
+[![eomdayeon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eomdayeon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/eomdayeon)
 ### 👩🏻‍💻 I’m currently learning **Computer Science Engineering**
 <!--
 **eomdayeon/eomdayeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
