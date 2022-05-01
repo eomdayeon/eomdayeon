@@ -5,10 +5,7 @@
 ![eomdayeon's github stats](https://github-readme-stats.vercel.app/api?username=eomdayeon&theme=radical&show_icons=true)
 [![eomdayeon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eomdayeon&langs_count=5&show_icons=true&hide_border=true&title_color=FFFFFF&icon_color=004386&theme=radical&layout=compact)](https://github.com/eomdayeon)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eomdayeon&layout=compact&theme=tokyonight)
 
-
-출처: https://eunhee-programming.tistory.com/244 [코드짜는 문과녀]
 
 ### 👩🏻‍💻 I’m currently learning **Computer Science Engineering**
 <!--
